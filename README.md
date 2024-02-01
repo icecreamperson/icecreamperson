@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dannielle Louis F. Abeleda</h1>
-<h3 align="center">Engineering Student</h3>
+<h3 align="center">An Engineering Student</h3>
 <img align="right" alt="Coding" width="400" src="https://cdna.artstation.com/p/assets/images/images/030/437/334/original/robyn-angeli-icecream.gif?1600615206">
 
 - 🌱 I’m currently learning **Robotics 2**
