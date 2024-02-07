@@ -2,7 +2,7 @@
 <h3 align="center">Engineering Student</h3>
 <img align="right" alt="Coding" width="400" src="https://cdna.artstation.com/p/assets/images/images/030/437/334/original/robyn-angeli-icecream.gif?1600615206">
 
-- 🌱 I’m currently learning **Robotics 2**
+- 🌱 I’m currently learning **Robotics 2.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/icecreamperson](https://github.com/icecreamperson)
 
